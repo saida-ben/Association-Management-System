@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/saida-ben/association-management-system-frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/saida-ben/association-management-system-backend
